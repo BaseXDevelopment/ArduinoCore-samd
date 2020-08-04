@@ -1,3 +1,6 @@
+# BAseX Development board fork
+This is a fork of the Mattairtech SAM D|L|C core for Arduino, this fork is to provide support for the Creative Robotics BaseX development board range.
+
 # MattairTech SAM D|L|C Core for Arduino
 
 The MattairTech SAM D|L|C Core for Arduino is a fork from arduino/ArduinoCore-samd
